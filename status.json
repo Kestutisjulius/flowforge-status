@@ -1,6 +1,6 @@
 {
     "service":  "flowforge",
-    "status":  "online",
-    "message":  "FlowForge API veikia.",
-    "updatedAt":  "2026-10-28T17:06:25Z"
+    "status":  "offline",
+    "message":  "FlowForge API išjungtas (PC išjungiamas).",
+    "updatedAt":  "2026-10-28T18:35:48Z"
 }
